@@ -1,0 +1,5 @@
+rich>=13.7.0
+prompt-toolkit>=3.0.0
+pyfiglet>=0.8.post1
+colorama>=0.4.6
+requests>=2.31.0
